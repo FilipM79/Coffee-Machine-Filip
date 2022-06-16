@@ -67,5 +67,5 @@ public class Machine {
                 coffeeBeans + " g of coffee beans\n" +
                 cups + " disposable cups\n" + "$" +
                 money + " of money\n");
-    }
+    } 
 }
